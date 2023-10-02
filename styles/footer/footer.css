@@ -1,0 +1,10 @@
+.footer {
+    position: relative;
+    z-index: 3;
+    background-color: #FAF651;
+    margin: 0px auto;
+    padding: 0;
+    box-shadow: 16px 0px 24px rgba(0, 0, 0, 0.5);
+    height: 160px;
+    display: flex;
+}

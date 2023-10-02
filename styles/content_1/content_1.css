@@ -1,0 +1,35 @@
+.content_1{
+    width: 874px;
+    height: 392px;
+}
+
+.button__start{
+    font-family: "roboto";
+    font-weight: 700;
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #242424;
+    background: #FAF651;
+    border-radius: 10px;
+    width: 384px;
+    height: 80px;
+    box-shadow: 0px 16px 24px rgba(0, 0, 0, 0.5);
+    margin-top: 80px;
+
+    user-select: none;
+    cursor: pointer;
+}
+
+.button__start:hover{ background:  #efed6a; } 
+.button__start:active{ background: #dbd936; } 
+
+.message__button{
+    padding-left: 1205px;
+    margin-top: 76px;
+    height: 108px;
+    width: 108px;
+    cursor: pointer;
+}
+

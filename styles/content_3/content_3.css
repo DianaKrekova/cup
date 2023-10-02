@@ -1,0 +1,65 @@
+.content_3{
+    width: 1300px;
+    height: 615.7px;
+}
+
+.head__about{
+    color: white;
+    text-transform: uppercase;
+    font-size: 64px;
+    font-weight: 700;
+    text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    margin: 0;
+    padding-top: 121px;
+    
+}
+
+.line{
+    margin-left: 344px;
+}
+
+.icon{
+    display: grid;
+    grid-auto-flow: column;
+    grid-column-gap: -128px;
+    
+    
+    margin-top: 128px;
+}
+
+.pc{
+    width: 344px;
+    height: 272.82px;
+    float: left;
+}
+
+.clock{
+    width: 344px;
+    height: 272.82px;
+    float: left;
+}
+
+.cash{
+    width: 434px;
+    height: 306.82px;
+    float: left;
+}
+
+.subhead{
+    padding-top: 43px;
+    padding-bottom: 30px;
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: start;
+    margin: 0;
+}
+
+.sub_subhead{
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: start;
+    margin: 0;
+}

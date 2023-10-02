@@ -1,0 +1,28 @@
+.head{
+    width: 874px;
+    height: 232px;
+    color: #FFFFFF;
+}
+
+.head__name{
+    font-family: "roboto_flex";
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 112px;
+    display: flex;
+    align-items: center;
+    margin:0;
+    padding:0;
+}
+
+.head__text{
+    font-family: "roboto_flex";
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+    display: flex;
+    align-items: center;
+    margin-top:24px;
+    padding:0;
+}
+

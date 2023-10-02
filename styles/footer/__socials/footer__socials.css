@@ -1,0 +1,6 @@
+.footer__socials {
+    padding-right: 473px;
+    padding-left: 144px;
+    display: flex;
+    flex-direction: row;
+}

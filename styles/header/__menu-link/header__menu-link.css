@@ -1,0 +1,9 @@
+.header__menu-link {
+    margin: 0px;
+    color: white;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+    text-decoration: none;
+    align-self: center;
+}

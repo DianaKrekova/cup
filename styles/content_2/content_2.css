@@ -1,0 +1,34 @@
+.content_2{
+    height: 874px;
+    margin-top: 56px;
+}
+
+.slides{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.arrow1{
+    user-select: none;
+    cursor: pointer;
+}
+
+.arrow2{ 
+    user-select: none;
+    cursor: pointer;
+}
+
+.arrows{
+    max-width: 1305px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 1296px;
+    
+    margin-left: 212px;
+    margin-top: -433px;
+}

@@ -1,0 +1,7 @@
+.footer__social-network {
+    padding-right: 55px;
+}
+
+.footer__social-network:last-of-type {
+    padding-right: 0;
+}

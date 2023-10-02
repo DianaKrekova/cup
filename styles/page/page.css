@@ -1,0 +1,38 @@
+.page {
+    max-width: 1928px;
+    margin: 0px auto;
+    background-color: #393939;
+    font-family: "roboto", sans-serif;
+}
+
+
+.content{
+    max-width: 1305px;
+    margin: 0 auto;
+}
+
+.background_1{
+    background-image: url(../../images/welcome_image.png);
+    margin: 0px auto;
+    padding-top: 144px;
+    position: relative;
+    height: 664px;
+}
+
+.background_2{
+    background-image: url(../../images/Backgr2.png);
+    margin-top:0px;
+    height: 856px;
+}
+
+.background_3{
+    background-image: url(../../images/Backgr3.png);
+    margin-top:0px;
+    height: 1070px;
+}
+
+.background_4{
+    background-image: url(../../images/Backgr4.png);
+    margin-top:0px;  
+    height: 452px;
+}

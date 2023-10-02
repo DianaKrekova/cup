@@ -1,0 +1,9 @@
+.footer__email {
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    align-self: center;
+    color: #242424;
+}
